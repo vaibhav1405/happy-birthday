@@ -1,4 +1,4 @@
-html {
+fhtml {
   box-sizing: border-box;
 }
 
@@ -6,7 +6,6 @@ body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
 }
-
 .container {
   height: 100vh;
   width: 100vh;
@@ -296,4 +295,12 @@ body {
     font-size: 1.5rem;
     font-weight: lighter;
   }
+}
+
+
+.lydia-dp{
+  display:"none";
+}
+.hat {
+  display:"none";
 }
